@@ -1,2 +1,2 @@
 # Cafe-Page
-A project for a Cafe page using Html and Css
+Project 2, page using Html and Css
